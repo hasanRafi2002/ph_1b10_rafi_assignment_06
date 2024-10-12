@@ -4,7 +4,6 @@
 
 
 
-
 Github Repo Link: https://github.com/hasanRafi2002/ph_1b10_rafi_assignment_06
 
 Github Live Site Link:  https://hasanrafi2002.github.io/ph_1b10_rafi_assignment_06/
@@ -143,8 +142,3 @@ Ensure the final project includes a `README.md` file with the following details:
 -Github Live Site Link:  https://hasanrafi2002.github.io/ph_1b10_rafi_assignment_06/
 
 -Live Site Link: https://leafy-granita-ecb8c8.netlify.app/
-
-
-
-
-
