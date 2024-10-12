@@ -5,7 +5,9 @@
 
 
 
-Github Repo Link: https://github.com/programming-hero-web-course2/b10a6-pet-adoption-hasanRafi2002
+Github Repo Link: https://github.com/hasanRafi2002/ph_1b10_rafi_assignment_06
+
+Github Live Site Link:  https://hasanrafi2002.github.io/ph_1b10_rafi_assignment_06/
 
 Live Site Link: https://leafy-granita-ecb8c8.netlify.app/
 
@@ -126,16 +128,21 @@ The following APIs are available in Peddy:
 
 Ensure the final project includes a `README.md` file with the following details:
 
-- Project name.
+- Project Name - peddy.
 - Short description of the project.
 - 5 key features of the project.
 - ES6 features used.
 - Live link to the deployed project.
 
-## What to Submit
+## What i Submit
 
-- Your Private Github Repo Link
-- Your Live Link
+- Your Private Github Repo Link : https://github.com/programming-hero-web-course2/b10a6-pet-adoption-hasanRafi2002
+
+- Github Repo Link: https://github.com/hasanRafi2002/ph_1b10_rafi_assignment_06
+
+-Github Live Site Link:  https://hasanrafi2002.github.io/ph_1b10_rafi_assignment_06/
+
+-Live Site Link: https://leafy-granita-ecb8c8.netlify.app/
 
 
 
